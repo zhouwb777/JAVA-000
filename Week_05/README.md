@@ -2,9 +2,9 @@
 
 ## Week05 作业题目（周四）：
 2.（必做）写代码实现 Spring Bean 的装配，方式越多越好（XML、Annotation 都可以）, 提交到 Github。<br/>
-[xml配置](https://github.com/zhouwb777/JAVA-000/blob/main/Week_05/SpringBeanDemo/xml-configuration) <br/>
-[包扫描配置](https://github.com/zhouwb777/JAVA-000/blob/main/Week_05/SpringBeanDemo/scanpackage-configuration) <br/>
-[注解配置](https://github.com/zhouwb777/JAVA-000/blob/main/Week_05/SpringBeanDemo/annotation-configuration) <br/>
+[xml配置](https://github.com/zhouwb777/JAVA-000/tree/main/Week_05/spring-bean/xml-configuration) <br/>
+[包扫描配置](https://github.com/zhouwb777/JAVA-000/blob/main/Week_05/spring-bean/scanpackage-configuration) <br/>
+[注解配置](https://github.com/zhouwb777/JAVA-000/blob/main/Week_05/spring-bean/annotation-configuration) <br/>
 
 ## Week05 作业题目（周六）：
 4.（必做）给前面课程提供的 Student/Klass/School 实现自动配置和 Starter。<br/>
