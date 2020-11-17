@@ -10,7 +10,7 @@
 4.（必做）给前面课程提供的 Student/Klass/School 实现自动配置和 Starter。<br/>
 
 ~~~
-1. 构建Starter项目：fifth-week-home-work-spring-boot-starter
+1. 构建Starter项目：spring-boot-starter
 了解了下Starter会使用到一些注解
 
 @Bean 实例化一个 bean;
@@ -34,7 +34,7 @@
             <optional>true</optional>
         </dependency>
 
-2. 构建Web项目：fifth-week-home-work-spring-boot
+2. 构建Web项目：spring-boot
 
 @RestController
 @RequestMapping(value = "/demo")
@@ -62,6 +62,8 @@ public class DemoController {
 3）配置 Hikari 连接池，改进上述操作。提交代码到 Github。<br/>
 
 ~~~
+项目：jdbc
+
 1. DriverManager：驱动管理对象
     1. 注册驱动：告诉程序该使用哪一个数据库驱动jar
         static void registerDriver(Driver driver) :注册与给定的驱动程序 DriverManager 。 
